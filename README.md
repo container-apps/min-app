@@ -1,2 +1,3 @@
 # min-app
-Min Browser Container App
+
+docker run -e DISPLAY=$DISPLAY ghcr.io/container-apps/min-app
